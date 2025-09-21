@@ -1,5 +1,12 @@
 # ⛅ Weather App
 
+**COMPANY:** CODTECH IT SOLUTIONS  
+**NAME:** RITESH BHAMDARE   
+**INTERN ID:** CT08DZ656  
+**DOMAIN:** REACT.JS WEB DEVELOPMENT  
+**DURATION:** 8 WEEKS  
+**MENTOR:** NEELA SANTHOSH KUMAR  
+
 ## Overview
 A simple and elegant **Weather Application** built using **React (Vite)**. This app allows users to search for any city in the world and instantly view the current weather details such as temperature, humidity, wind speed, and weather conditions. With a clean UI and real-time weather data fetching from an external API, the app ensures a smooth and user-friendly experience.
 
