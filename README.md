@@ -54,4 +54,8 @@ Follow these steps to run the project locally:
 4. **Run the development server**
    ```bash
    npm run dev
-   ``` 
+   ```
+## Output:
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/52808213-dbc1-4558-9f63-2f06896b50a3" />
+   
