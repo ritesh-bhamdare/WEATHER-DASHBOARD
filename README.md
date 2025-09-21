@@ -27,7 +27,7 @@ A simple and elegant **Weather Application** built using **React (Vite)**. This 
 
 - **Frontend Framework**: React (Vite)
 - **Styling**: CSS (custom + utility classes)
-- **API**: OpenWeather API (or your preferred weather API)
+- **API**: OpenWeather API 
 - **Build Tool**: Vite
 - **Language**: JavaScript (ES6+)
 
@@ -46,8 +46,7 @@ Follow these steps to run the project locally:
    ```bash
    npm install
    ```
-3. **Add Environment Variables**
-   Create a .env file in the root folder with your API key:
+3. **Add Environment Variables.** Create a .env file in the root folder with your API key:
    ```bash
    VITE_WEATHER_API_KEY=your_api_key_here
    ```
@@ -57,5 +56,8 @@ Follow these steps to run the project locally:
    ```
 ## Output:
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/52808213-dbc1-4558-9f63-2f06896b50a3" />
+
+<p align="center">
+ <img  width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/52808213-dbc1-4558-9f63-2f06896b50a3" />
+</p>
    
